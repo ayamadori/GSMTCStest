@@ -1,3 +1,3 @@
 # GSMTCStest
-Test for GlobalSystemMediaTransportControlsSession (Windows.Media.Control Namespace)  
+Test for GlobalSystemMediaTransportControls API (Windows.Media.Control Namespace)  
 https://docs.microsoft.com/en-us/uwp/api/windows.media.control
